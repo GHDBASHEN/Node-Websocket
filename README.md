@@ -20,8 +20,7 @@ Ensure you have **Node.js** installed on your system.
 1. Clone the repository:
    ```sh
    git clone https://github.com/GHDBASHEN/node-websocket.git
-   cd node-websocket-chat
-   ```
+   cd node-websocket
 2. Install dependencies:
    ```sh
    npm install
